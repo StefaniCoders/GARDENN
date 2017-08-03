@@ -1,0 +1,39 @@
+/* Agrega aquí tus estilos*/
+body{
+	background-image:url(garden.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+p{
+	text-align:justify;
+	font-family:Comic Sans MS;
+	color:white;
+	text-shadow:1px 1px 1px black;
+}
+	
+
+h1{
+	color:#ffffff;
+	background:#0ce411;
+	text-align:center;
+	font-size:40px;
+	margin:0;
+	padding:20px 0;
+	text-shadow:3px 3px 1px black;
+}
+
+h2{
+	color:white;
+	text-shadow:1px 1px 1px black;
+	text-align:center;
+	font-family:Buxton Sketch;
+}
+
+h3{
+	color:white;
+	text-shadow:1px 1px 1px black;
+}	
+
